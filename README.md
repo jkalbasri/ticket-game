@@ -1,4 +1,4 @@
-# Sweetland - Physics Game 🎮 
+# Ticket - Physics Game 🎮 
 
 This physics-based mini-game, developed using the p5.js and Vue.js frameworks, is part of a small collection of mini-games I developed.
 
